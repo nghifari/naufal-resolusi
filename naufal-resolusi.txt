@@ -1,5 +1,4 @@
 Naufal resolusi 
-- Konsisten untuk belajar coding website setiap hari
 - Membuat project penyedia jasa website untuk sekolah
 - Menjadi fullStack Website
 - Membuat icon Pack
